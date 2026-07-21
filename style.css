@@ -75,5 +75,5 @@ footer { background: #2f3542; color: white; text-align: center; padding: 20px; }
     .nav-links { position: absolute; top: 60px; left: -100%; flex-direction: column; background: #fff; width: 100%; text-align: center; transition: 0.3s; box-shadow: 0 5px 10px rgba(0,0,0,0.1); }
     .nav-links.active { left: 0; }
     .nav-links li { margin: 20px 0; }
-    .hero h2 { font-size: 30px; }
+    .hero h2 { font-size: 30px;color: #ffeb3b; }
 }
